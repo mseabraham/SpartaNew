@@ -1,0 +1,142 @@
+---CLASSES vs STRUCTS---
+|- Class is like a blueprint of a specific object.
+|- BOTH: Are data structures that encapsulate data and behaviour.
+|- BOTH: Have member feilds,  constructor and properties.
+|- DIFF: Struct are stored on the stack, Classes are stored on the heap.
+
+---METHOD SIGNATURES---
+|- Methods are declared in a class or struct by specifiying:
+    |- An optional access level (i.e. public, private); default is private.
+    |- Optional modifiers (i.e. abstract or sealed)
+    |- Return value or void.
+    |- Method name
+    |- Any parameters of the method
+|- Private modifier: The type or member can be accessed by any other code in the same assembly or another assembly that references it.
+|- Public modifier: The type or member can only be accessed by code in the same class or struct.
+
+---CONSTRUCTOR---
+|- Constructor created when the 'new' keyword is called.
+|- Can have multiple constructors that take different arguments.
+|- Space is found on the heap for the new object.
+|- Constructor name MUST be the same name as the class.
+|- DEFAULT CONSTRUCTOR:
+    |- If there is no constructor then C# creates one and sets and instantiates the object and sets member variables to default values.
+        |- DEFAULT VALUE TYPES: Refrence Type = null, Any Int or Float = 0, Bool = False, Char = \n
+    |- Written constructors override default constructors.
+
+---INSTANTIATION---
+|- Process of creating an object from a class, because an object is an instance of a class.
+|- A class object may be defined, an instance of that object is then declared with a unique name to be use in a program.
+
+---INHERITANCE---
+|- 
+
+    
+    
+    
+    
+
+
+
+
+
+
+
+---EXAMPLES---
+
+INHERITANCE EXAMPLE:
+
+class Hunter : Person
+    {
+
+        private string _camera;
+
+        public Hunter (string fName, string lName, string camera=""): base(fName, lName)
+        {
+            this._camera = camera;
+
+        }
+    }
+    
+
+CONSTRUCTOR EXAMPLES:
+public class Vehicle
+    {
+        private int _capacity;
+        private int _numPassengers;
+        private int _speed;
+
+        public int NumPassengers 
+        {
+            get
+            {
+                if((_numPassengers > _capacity)||(_numPassengers < 0)){ return default;}
+                else{ return _numPassengers;}
+            }
+            set{
+                if ((_numPassengers > _capacity) || (_numPassengers < 0)){_numPassengers = default;}
+                else{_numPassengers = value;}
+            } 
+        }
+        
+        public int Position { get; private set; }
+
+        public Vehicle() 
+        {
+            _capacity = default;
+            _speed = 10;        
+         }
+
+        public Vehicle (int capacity, int speed = 10)
+        {
+            _capacity = capacity;
+            _speed = speed;
+        }
+
+        public string Move()
+        {
+            Position = _speed;
+            return "Moving along";
+        }
+
+        public string Move(int times)
+        {
+            Position = _speed * times;
+            return $"Moving along {times} times";
+        }
+
+        //HW 2
+        public override string ToString(){ return base.ToString();}
+    }
+    
+    
+INTERFACE EXAMPLES:
+    
+public interface IMoveable
+    {
+        string Move();
+
+        string Move(int times);
+    }
+    
+POLYMORPHISM EXAMPLES:
+
+  public interface IShootable{ string Shoot();}
+    
+
+public abstract class Weapon : IShootable
+    {
+        private string _brand;
+
+        public Weapon (string brand){ _brand = brand;}
+
+        public override string ToString(){ return $"{base.ToString()} : {_brand}";}
+
+        public virtual string Shoot(){ return $"Shooting a {ToString()}";}
+    
+  public class WaterPistol : Weapon
+    {
+        public WaterPistol(string brand) : base(brand) { }
+
+        public override string Shoot(){ return $"Splash!! {base.Shoot()}";}
+    }

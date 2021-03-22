@@ -1,0 +1,16 @@
+C:\Users\Michael\Documents\Sparta\C#\Sesssion1App\Sesssion1App\bin\Release\net5.0\Sesssion1App.exe
+C:\Users\Michael\Documents\Sparta\C#\Sesssion1App\Sesssion1App\bin\Release\net5.0\Sesssion1App.deps.json
+C:\Users\Michael\Documents\Sparta\C#\Sesssion1App\Sesssion1App\bin\Release\net5.0\Sesssion1App.runtimeconfig.json
+C:\Users\Michael\Documents\Sparta\C#\Sesssion1App\Sesssion1App\bin\Release\net5.0\Sesssion1App.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Sparta\C#\Sesssion1App\Sesssion1App\bin\Release\net5.0\Sesssion1App.dll
+C:\Users\Michael\Documents\Sparta\C#\Sesssion1App\Sesssion1App\bin\Release\net5.0\ref\Sesssion1App.dll
+C:\Users\Michael\Documents\Sparta\C#\Sesssion1App\Sesssion1App\bin\Release\net5.0\Sesssion1App.pdb
+C:\Users\Michael\Documents\Sparta\C#\Sesssion1App\Sesssion1App\obj\Release\net5.0\Sesssion1App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\Sparta\C#\Sesssion1App\Sesssion1App\obj\Release\net5.0\Sesssion1App.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Sparta\C#\Sesssion1App\Sesssion1App\obj\Release\net5.0\Sesssion1App.AssemblyInfo.cs
+C:\Users\Michael\Documents\Sparta\C#\Sesssion1App\Sesssion1App\obj\Release\net5.0\Sesssion1App.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Sparta\C#\Sesssion1App\Sesssion1App\obj\Release\net5.0\Sesssion1App.dll
+C:\Users\Michael\Documents\Sparta\C#\Sesssion1App\Sesssion1App\obj\Release\net5.0\ref\Sesssion1App.dll
+C:\Users\Michael\Documents\Sparta\C#\Sesssion1App\Sesssion1App\obj\Release\net5.0\Sesssion1App.pdb
+C:\Users\Michael\Documents\Sparta\C#\Sesssion1App\Sesssion1App\obj\Release\net5.0\Sesssion1App.genruntimeconfig.cache
+C:\Users\Michael\Documents\Sparta\C#\Sesssion1App\Sesssion1App\obj\Release\net5.0\Sesssion1App.csprojAssemblyReference.cache

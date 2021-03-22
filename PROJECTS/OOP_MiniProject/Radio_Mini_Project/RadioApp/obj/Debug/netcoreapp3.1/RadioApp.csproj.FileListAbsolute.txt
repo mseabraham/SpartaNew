@@ -1,0 +1,9 @@
+C:\Users\Michael\Documents\Sparta\OOP_MiniProject\Radio_Mini_Project\RadioApp\bin\Debug\netcoreapp3.1\RadioApp.deps.json
+C:\Users\Michael\Documents\Sparta\OOP_MiniProject\Radio_Mini_Project\RadioApp\bin\Debug\netcoreapp3.1\RadioApp.dll
+C:\Users\Michael\Documents\Sparta\OOP_MiniProject\Radio_Mini_Project\RadioApp\bin\Debug\netcoreapp3.1\RadioApp.pdb
+C:\Users\Michael\Documents\Sparta\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Sparta\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Sparta\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.AssemblyInfo.cs
+C:\Users\Michael\Documents\Sparta\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Sparta\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.dll
+C:\Users\Michael\Documents\Sparta\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.pdb

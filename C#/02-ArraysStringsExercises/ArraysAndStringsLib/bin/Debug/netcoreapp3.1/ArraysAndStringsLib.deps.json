@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ArraysAndStringsLib/1.0.0": {
+        "runtime": {
+          "ArraysAndStringsLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArraysAndStringsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

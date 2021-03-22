@@ -1,0 +1,65 @@
+OPERATORS
+
+++x = do the operaters on the vaue of x and when the program steps down then increment 1 to value of x
+x++ = take he value of x and increment it by one, then do the operation neccesary on the value
+
+ x & y - TRUE IF X AND Y TRUE
+ x | y - TRUE IF EITHER X OR Y TRUE
+ x ^ y - TRUE IF ONE IS TRUE AND OTHER IS FALSE (EXCLUSIVE OR)
+ 
+ x && y 
+        -- short circuit (if one value doesn't meet criteria then the system doesn't bother checking the other side of statement)
+ x || y 
+ 
+ 
+ 0101
+ 0001
+ 0001 = 5 & 1 = 1
+ 
+ 0101
+ 0001
+ 0101 = 5 | 1 = 5
+ 
+ 0101
+ 0001
+ 0100 = 5 ^ 1 = 4
+ 
+ 
+ ~x bitwise complement (unray) - reverses each bit of x
+ 
+ 
+ x << y left shift - Shifts bits of x to the left by y positions
+ 9 << 3 = 00001001 to 0100100(72)
+ 
+ x >> y - Shifts bits of x to the right by y positions
+ 9 >> 2 = 00001001 to 00000010 (2)
+ 
+ > - comparison opperator
+ 
+ --Tuples
+ | allows you to return two variables
+ | passing out a reference to where the values are stored rather than passing out the values
+ 
+ --Method Overloading
+ | Mehod overloading refers to having more than one method with the same name but different parameter lists
+ 
+ 
+ ARRAYS & STRINGS
+ --Array: A way to store a list of data of the same type
+ | an array can be accessed by an index
+ | can decleare and initialize an array at the same time
+ | Arrays can be two or more dimensions (Multidimensional Array)
+ 
+ 
+ 
+ new = instanciating a new object
+ 
+ 
+ --String 
+ - parsing is a way we can use and check ifferent types of string input
+ 
+ 
+ :p(n) - percentage
+ 
+ 
+ -DoWhile - Will deffinelty execute once and then till the condition is no longer met

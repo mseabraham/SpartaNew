@@ -1,0 +1,51 @@
+--COLLECTION
+
+-HashSet<T>
+|- Hashset is an unorderdered collection
+|- No duplicate element is allowed
+
+-Dictionary<TKey, TValue>
+|- Dictionary is a collection of key/value pairs
+|- String convenient to use as key but can use any type 
+
+
+
+--EXCEPTIONS
+|- Syntax errors - incorrect grammer, caught by compiler
+|- Runtime error - something occurs while program is runing that can't be dealt with
+|- Logic errors - wrong assumptions, wrong conditions used in selection or loops, incorrect calculations
+
+
+--DATA TYPES
+|- Value types include simple types (such as int, float, bool, and char), enum types, struct types, and Nullable value types.
+|- VALUE TYPES: byte, sbyte, short, ushort, int, unit, long, ulong, float, double, decimal, char, bool, object, string, DateTime
+|- DEFAULT TYPES: Numeric = 0, Bool = false, char = \0; int i = default
+|- Every type has a defined (size; how much space needed to store data, Allowed operations/methods)
+|- Most value types are simple/primitive
+|- structs and enums are usually complex
+|- Reference types are usually complex
+
+|- String is a refrence type, stored on theheap
+|- Array stored on the heap
+|- PRIMITIVES VS REFRENCE TYPES: Primitives copy the object, reference copies adress of the value
+
+--CASTING
+|- Implicit Casting (automatically) - converting a smaller type to a larger type size.
+|- Explicit Casting (manually) - converting a larger type to a smaller size type
+    |-  double myDouble = 9.78;
+        int myInt = (int) myDouble; 
+
+|- Strongly typed langauge - must define the type of a variable before and can only change it through explicit casting
+|- Weakly typed language - the type can changeduring the lifespan of the program.
+
+operators
+conditional logics
+Dates
+Control statements (while swithch if )
+collections
+integer division
+ternary operator
+overflow exception
+try catch blocks (hierachy)
+named parameters
+

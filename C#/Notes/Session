@@ -1,0 +1,51 @@
+--
+Basic concepts of programming languages(variables, types, statements, conditions, loops, functions, arrays, objects, inheritance)
+Some variation in syntax but the main differences are how they behave "under the hood" 
+
+--NAMING CONVENTION
+Pascal Case: First letter (Namespace)
+CamelCase: humped method naming (nameSpace)
+Snake
+
+
+DLL - compiled linkable files
+EXE - executable file
+
+--HOW TO BUILD FROM THE COMMAND LINE
+dotnet new console --new console application
+dotnet new web -n DemoWebApp --
+dotnet new wpf -n DemoWPFApp
+dotnet new mvc -n DemoMVCApp
+
+
+----VARIABLES----
+- Varaible - storage of memory where you save a value
+- Variables have a name, type and stors a value (int age = 23)
+- Must start with a letter or underscore
+- Choose meaningful names
+
+----DATA TYPES----
+- Every type has a defined (size; how much space needed to store data, Allowed operations/methods)
+- Most value types are simple/primitive
+- structs and enums are usually comp;ex
+- Reference types are usually complex
+
+- Statically typed: defined at compile time
+- Type safe: prevents values of one type being substituted for another, incompatible type
+- Memory safe: Prevents access to invalid memory
+
+
+- Impliciant Casting - not defining that you are casting but allowin the system to do it for you
+- Explicit casting - e.g. float example = (float) 2;
+
+
+Strongly typed langauge - must define the type of a variable before and can only change it through explicit casting
+Weakly typed language - the type can changeduring the lifespan of the program
+
+
+
+-- FURTHER READING
+
+-Timespan
+-Ticks
+-

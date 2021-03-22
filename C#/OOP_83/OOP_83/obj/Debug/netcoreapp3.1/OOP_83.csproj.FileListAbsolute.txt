@@ -1,0 +1,13 @@
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\OOP_83\OOP_83\bin\Debug\netcoreapp3.1\OOP_83.exe
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\OOP_83\OOP_83\bin\Debug\netcoreapp3.1\OOP_83.deps.json
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\OOP_83\OOP_83\bin\Debug\netcoreapp3.1\OOP_83.runtimeconfig.json
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\OOP_83\OOP_83\bin\Debug\netcoreapp3.1\OOP_83.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\OOP_83\OOP_83\bin\Debug\netcoreapp3.1\OOP_83.dll
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\OOP_83\OOP_83\bin\Debug\netcoreapp3.1\OOP_83.pdb
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\OOP_83\OOP_83\obj\Debug\netcoreapp3.1\OOP_83.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\OOP_83\OOP_83\obj\Debug\netcoreapp3.1\OOP_83.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\OOP_83\OOP_83\obj\Debug\netcoreapp3.1\OOP_83.AssemblyInfo.cs
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\OOP_83\OOP_83\obj\Debug\netcoreapp3.1\OOP_83.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\OOP_83\OOP_83\obj\Debug\netcoreapp3.1\OOP_83.dll
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\OOP_83\OOP_83\obj\Debug\netcoreapp3.1\OOP_83.pdb
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\OOP_83\OOP_83\obj\Debug\netcoreapp3.1\OOP_83.genruntimeconfig.cache

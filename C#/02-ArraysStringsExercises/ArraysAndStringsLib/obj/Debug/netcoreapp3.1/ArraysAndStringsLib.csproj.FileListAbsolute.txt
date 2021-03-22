@@ -1,0 +1,9 @@
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\02-ArraysStringsExercises\ArraysAndStringsLib\bin\Debug\netcoreapp3.1\ArraysAndStringsLib.deps.json
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\02-ArraysStringsExercises\ArraysAndStringsLib\bin\Debug\netcoreapp3.1\ArraysAndStringsLib.dll
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\02-ArraysStringsExercises\ArraysAndStringsLib\bin\Debug\netcoreapp3.1\ArraysAndStringsLib.pdb
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\02-ArraysStringsExercises\ArraysAndStringsLib\obj\Debug\netcoreapp3.1\ArraysAndStringsLib.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\02-ArraysStringsExercises\ArraysAndStringsLib\obj\Debug\netcoreapp3.1\ArraysAndStringsLib.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\02-ArraysStringsExercises\ArraysAndStringsLib\obj\Debug\netcoreapp3.1\ArraysAndStringsLib.AssemblyInfo.cs
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\02-ArraysStringsExercises\ArraysAndStringsLib\obj\Debug\netcoreapp3.1\ArraysAndStringsLib.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\02-ArraysStringsExercises\ArraysAndStringsLib\obj\Debug\netcoreapp3.1\ArraysAndStringsLib.dll
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\02-ArraysStringsExercises\ArraysAndStringsLib\obj\Debug\netcoreapp3.1\ArraysAndStringsLib.pdb

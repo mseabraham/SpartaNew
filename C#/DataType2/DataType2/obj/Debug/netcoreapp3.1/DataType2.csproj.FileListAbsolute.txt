@@ -1,0 +1,13 @@
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\DataType2\DataType2\bin\Debug\netcoreapp3.1\DataType2.exe
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\DataType2\DataType2\bin\Debug\netcoreapp3.1\DataType2.deps.json
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\DataType2\DataType2\bin\Debug\netcoreapp3.1\DataType2.runtimeconfig.json
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\DataType2\DataType2\bin\Debug\netcoreapp3.1\DataType2.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\DataType2\DataType2\bin\Debug\netcoreapp3.1\DataType2.dll
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\DataType2\DataType2\bin\Debug\netcoreapp3.1\DataType2.pdb
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\DataType2\DataType2\obj\Debug\netcoreapp3.1\DataType2.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\DataType2\DataType2\obj\Debug\netcoreapp3.1\DataType2.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\DataType2\DataType2\obj\Debug\netcoreapp3.1\DataType2.AssemblyInfo.cs
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\DataType2\DataType2\obj\Debug\netcoreapp3.1\DataType2.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\DataType2\DataType2\obj\Debug\netcoreapp3.1\DataType2.dll
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\DataType2\DataType2\obj\Debug\netcoreapp3.1\DataType2.pdb
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\DataType2\DataType2\obj\Debug\netcoreapp3.1\DataType2.genruntimeconfig.cache

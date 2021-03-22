@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\BoseMesh.jpg" />
+    <None Remove="Images\Dials.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RadioApp\RadioApp.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\BoseMesh.jpg" />
+    <Resource Include="Images\Dials.png" />
+  </ItemGroup>
+
+</Project>

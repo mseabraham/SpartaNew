@@ -1,0 +1,13 @@
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\Selection83\Selection83\bin\Debug\netcoreapp3.1\Selection83.exe
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\Selection83\Selection83\bin\Debug\netcoreapp3.1\Selection83.deps.json
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\Selection83\Selection83\bin\Debug\netcoreapp3.1\Selection83.runtimeconfig.json
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\Selection83\Selection83\bin\Debug\netcoreapp3.1\Selection83.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\Selection83\Selection83\bin\Debug\netcoreapp3.1\Selection83.dll
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\Selection83\Selection83\bin\Debug\netcoreapp3.1\Selection83.pdb
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\Selection83\Selection83\obj\Debug\netcoreapp3.1\Selection83.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\Selection83\Selection83\obj\Debug\netcoreapp3.1\Selection83.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\Selection83\Selection83\obj\Debug\netcoreapp3.1\Selection83.AssemblyInfo.cs
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\Selection83\Selection83\obj\Debug\netcoreapp3.1\Selection83.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\Selection83\Selection83\obj\Debug\netcoreapp3.1\Selection83.dll
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\Selection83\Selection83\obj\Debug\netcoreapp3.1\Selection83.pdb
+C:\Users\Michael\Documents\Sparta\SpartaNew\C#\Selection83\Selection83\obj\Debug\netcoreapp3.1\Selection83.genruntimeconfig.cache
